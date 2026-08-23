@@ -1,0 +1,2 @@
+# INTELLIGENT-NETWORK-INTRUSION-DETECTION-SYSTEM-USING-DEEP-LEARNING-FOR-REAL--TIME-THREAT-DETECTION-T
+An intelligent network intrusion detection system that uses deep learning techniques to detect, classify and analyze network based cyber threats in real time. the system aims to improve network security by identifying malicious activities and potential intrusion with accurate and efficient threat detection
